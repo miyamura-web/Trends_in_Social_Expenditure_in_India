@@ -34,3 +34,5 @@ This Power BI dashboard analyzes India’s social expenditure trends over time, 
 
 ---
 
+## Insights Summary
+The dashboard reveals increasing per capita expenditure and a diversified sectoral allocation, though spending as % of GDP has shown a modest decline. The data underscores the need for balanced regional distribution and more efficient fund utilization across states.
