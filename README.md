@@ -15,25 +15,20 @@ This Power BI dashboard analyzes India’s social expenditure trends over time, 
 ---
 
 ## Dashboard Components
-- Trend Analysis: Time-series visualization of total social expenditure (2005–2025).
-- Sector-Wise Breakdown: Donut chart depicting the share of each social sector.
-- State-Wise Comparison: Bar chart ranking Indian states and UTs by expenditure.
-- Revenue vs Capital Comparison: Analysis of the expenditure composition.
-- Key Metrics Cards: Quick KPIs for spending, growth, and per capita figures.
+- **Trend Analysis:** Time-series visualization of total social expenditure (2005–2025).
+- **Sector-Wise Breakdown:** Donut chart depicting the share of each social sector.
+- **State-Wise Comparison:** Bar chart ranking Indian states and UTs by expenditure.
+- **Revenue vs Capital Comparison:** Analysis of the expenditure composition.
+- **Key Metrics Cards:** Quick KPIs for spending, growth, and per capita figures.
 ---
 
 ## Methodology
-- Data Collection: Compiled expenditure data from government finance reports and budget documents (2005–2025).
-
-- Data Cleaning & Transformation: Used Power Query to merge and structure multiple datasets.
-
+- **Data Collection:** Compiled expenditure data from government finance reports and budget documents (2005–2025).
+- **Data Cleaning & Transformation:** Used Power Query to merge and structure multiple datasets.
 - Metric Calculation:
-
 **Spending as % of GDP** = (Total Social Expenditure ÷ GDP) × 100
-
 **Growth in SE (%)** = [(Current Year – Previous Year) ÷ Previous Year] × 100
-
-- Visualization: Built interactive visuals to compare trends, sectors, and state contributions.
+- **Visualization:** Built interactive visuals to compare trends, sectors, and state contributions.
 
 ---
 
