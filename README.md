@@ -20,6 +20,9 @@ This Power BI dashboard analyzes India’s social expenditure trends over time, 
 - **State-Wise Comparison:** Bar chart ranking Indian states and UTs by expenditure.
 - **Revenue vs Capital Comparison:** Analysis of the expenditure composition.
 - **Key Metrics Cards:** Quick KPIs for spending, growth, and per capita figures.
+
+  <img width="1324" height="747" alt="Screenshot 2025-10-30 200143" src="https://github.com/user-attachments/assets/eecb8bc1-a606-4f4a-b91b-d77adb1f2443" />
+
 ---
 
 ## Methodology
