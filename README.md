@@ -17,7 +17,7 @@ This Power BI dashboard analyzes India’s social expenditure trends over time, 
 ---
 
 ## Dashboard Components
-- **Trend Analysis:** Time-series visualization of total social expenditure (2005–2025).
+- **Trend Analysis:** Time-series visualization of total social expenditure (2005 – 2025).
 - **Sector-Wise Breakdown:** Donut chart depicting the share of each social sector.
 - **State-Wise Comparison:** Bar chart ranking Indian states and UTs by expenditure.
 - **Revenue vs Capital Comparison:** Analysis of the expenditure composition.
