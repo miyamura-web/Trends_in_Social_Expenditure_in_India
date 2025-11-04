@@ -27,7 +27,7 @@ This Power BI dashboard analyzes India’s social expenditure trends over time, 
 ## Methodology
 - **Data Collection:** Compiled expenditure data from government finance reports and budget documents (2005–2025).
 - **Data Cleaning & Transformation:** Used Power Query to merge and structure multiple datasets.
-- **Metric Calculation:**
+- **Metric Calculation:** Did many calculations to find out KPI's, some example are like -
   
 **Spending as % of GDP** = (Total Social Expenditure ÷ GDP) × 100
 
